@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nicolas. 👋
 
-<!--
-**devTakuma/devTakuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french math and computer science student which appears as Takuma on the internet.
+I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
-Here are some ideas to get you started:
+❤️ I'm passionate about mathematics, and I'm always in search of knowledge. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=devTakuma&show_icons=true&theme=radical)
+
+💬 Get in touch :
+* [Email](mailto:work.takuma@gmail.com)
+* [Twitter](https://twitter.com/devtakuma)
+* Discord: Takuma#0075
