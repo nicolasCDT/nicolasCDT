@@ -10,4 +10,4 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 💬 Get in touch :
 * [Email](mailto:work.takuma@gmail.com)
 * [Twitter](https://twitter.com/devtakuma)
-* Discord: Takuma#0075
+* Discord: Takuma#2725
