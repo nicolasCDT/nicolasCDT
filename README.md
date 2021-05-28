@@ -7,16 +7,15 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 ### 🖥️ Languages:
 
-| #### ⌨️ Known languages | #### ⌨️ In learning |
-| --- | --- |
+| ⌨️ Known languages | ⌨️ In learning or interested in |
+| ------------------------------- | ------------------------------- |
 | Python | C |
 | HTML/CSS | C++ |
 | PHP | Rust |
 | Matlab | C# |
 | JAVA | JavaScript |
 
-
-####💬Get in touch:
+#### 💬Get in touch:
 * [Email](mailto:work.takuma@gmail.com) 
 * [Twitter](https://twitter.com/devtakuma)
 * Discord: Takuma#2725 |
