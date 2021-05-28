@@ -21,6 +21,4 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 | Statistics | 💬Get in touch: |
 | --- | --- |
-| ![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=devTakuma&show_icons=true&theme=radical) |* [Email](mailto:work.takuma@gmail.com) |
-| |* [Twitter](https://twitter.com/devtakuma) |
-| |* Discord: Takuma#2725 |
+| ![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=devTakuma&show_icons=true&theme=radical) |* [Email](mailto:work.takuma@gmail.com) <br>* [Twitter](https://twitter.com/devtakuma)<br>* Discord: Takuma#2725 |
