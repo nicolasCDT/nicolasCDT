@@ -5,7 +5,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 ❤️ I'm passionate about mathematics, and I'm always in search of knowledge. 
 
-## Known languages :
+### Known languages :
 * Python
 * HTML/CSS
 * PHP
@@ -13,7 +13,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 * Matlab
 * PovRay
 
-## In learning :
+### In learning :
 * C/C++
 * C#
 * Rust
