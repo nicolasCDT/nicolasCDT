@@ -5,6 +5,20 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 ❤️ I'm passionate about mathematics, and I'm always in search of knowledge. 
 
+## Known languages :
+* Python
+* HTML/CSS
+* PHP
+* JAVA
+* Matlab
+* PovRay
+
+## In learning :
+* C/C++
+* C#
+* Rust
+* JavaScript
+
 ![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=devTakuma&show_icons=true&theme=radical)
 
 💬 Get in touch :
