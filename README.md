@@ -16,7 +16,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 | JAVA | JavaScript |
 
 #### 💬Get in touch:
-* [Email](mailto:work.takuma@gmail.com) 
+* [Email](mailto:contact@coudert.pro) 
 * [Twitter](https://twitter.com/devtakuma)
 * Discord: Takuma#2725
 
