@@ -5,15 +5,19 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 ❤️ I'm passionate about mathematics, and I'm always in search of knowledge. 
 
-### 🖥️ Languages:
+### 🖥️ Skills:
 
-| ⌨️ Known languages | ⌨️ In learning or interested in |
-| ------------------------------- | ------------------------------- |
-| Python | C |
-| HTML/CSS | C++ |
-| PHP | Rust |
-| Matlab | C# |
-| JAVA | JavaScript |
+| ⌨️ Known languages | Others skills | ⌨️ In learning or interested in |
+| ------------------------------- | ------------------------------- | ------------------------------- |
+| Python | Qt | Ruby |
+| HTML/CSS | Symfony | C++ |
+| PHP | Django | Rust |
+| Matlab | OpenGL | C# |
+| JAVA | | JavaScript |
+| C | | NodeJS |
+
+### Other skills:
+
 
 #### 💬Get in touch:
 * [Email](mailto:contact@coudert.pro) 
