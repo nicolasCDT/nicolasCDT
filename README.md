@@ -13,7 +13,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 | HTML/CSS | Symfony | C++ |
 | PHP | Django | Rust |
 | Matlab | OpenGL | C# |
-| JAVA | | JavaScript |
+| JAVA | Swing | JavaScript |
 | C | | NodeJS |
 
 ### Other skills:
