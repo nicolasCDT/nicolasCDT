@@ -20,7 +20,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 
 #### 💬Get in touch:
-* [Email](mailto:contact@coudert.pro) 
+* [Email](mailto:nicolas@coudert.pro) 
 * [Twitter](https://twitter.com/devtakuma)
 * Discord: Takuma#2725
 
