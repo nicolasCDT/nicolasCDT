@@ -25,4 +25,4 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 * Discord: Takuma#2725
 
 
-![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=devTakuma&show_icons=true&theme=radical)
+![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=nicolasCDT&show_icons=true&theme=radical)
