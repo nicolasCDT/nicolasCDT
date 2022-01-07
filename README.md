@@ -14,7 +14,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 | PHP | Django | Rust |
 | Matlab | OpenGL | C# |
 | JAVA | Swing | JavaScript |
-| C | Qt | NodeJS |
+| C |  | NodeJS |
 
 ### Other skills:
 
