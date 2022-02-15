@@ -9,12 +9,13 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 | ⌨️ Known languages | Others skills | ⌨️ In learning or interested in |
 | ------------------------------- | ------------------------------- | ------------------------------- |
-| Python | Qt | Ruby |
+| Python | Qt | Cobol |
 | HTML/CSS | Symfony | C++ |
 | PHP | Django | Rust |
 | Matlab | OpenGL | C# |
 | JAVA | Swing | JavaScript |
-| C |  | NodeJS |
+| C | Maven | NodeJS |
+| PL/SQL | | Ruby |
 
 ### Other skills:
 
