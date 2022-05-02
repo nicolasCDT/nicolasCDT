@@ -24,7 +24,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 * [Email](mailto:nicolas@coudert.pro) 
 * [Twitter](https://twitter.com/devtakuma)
 * Discord: Takuma#2725
-* 
+
 ![](https://komarev.com/ghpvc/?username=nicolasCDT&style=for-the-badge)
 
 ![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=nicolasCDT&show_icons=true&theme=radical)
