@@ -27,5 +27,3 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 
 ![](https://komarev.com/ghpvc/?username=nicolasCDT&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?user_id=49162744)
-
-![devTakuma's stats](https://github-readme-stats.vercel.app/api?username=nicolasCDT&show_icons=true&theme=radical)
