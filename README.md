@@ -17,9 +17,6 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 | C | Maven | NodeJS |
 | PL/SQL | | Ruby |
 
-### Other skills:
-
-
 #### 💬Get in touch:
 * [Email](mailto:nicolas@coudert.pro) 
 * [Twitter](https://twitter.com/devtakuma)
