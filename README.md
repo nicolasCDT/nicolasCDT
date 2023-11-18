@@ -12,7 +12,7 @@ I share my litle creation on this GitHub. I also work as a Freelance in Python.
 | Python | Qt | Cobol |
 | HTML/CSS | Symfony | C++ |
 | PHP | Django | Rust |
-| Matlab | OpenGL | C# |
+| Matlab | FastAPI | C# |
 | JAVA | Swing | JavaScript |
 | C | Maven | NodeJS |
 | PL/SQL | | Ruby |
